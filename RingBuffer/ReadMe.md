@@ -10,3 +10,4 @@ I write a job log as I develop a new engine.
   * Copy the data folder to sample/resource However, the data folder is divided into cpu/gpu versions. 
     There seems to be only one version of the cpu and one version of the gpu. 
     And I think there will be a minimum of files required for each function used.
+  * To create an environment where identical sample applications can be built, copy main.cpp.
